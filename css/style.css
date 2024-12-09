@@ -1,0 +1,788 @@
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Hahmlet:wght@100..900&display=swap");
+
+.Group2 {
+  position: absolute;
+  width: 1920px;
+  height: 5000px;
+  left: 0px;
+  top: 0px;
+}
+
+.cover1 {
+  position: absolute;
+  width: 1921px;
+  height: 5000px;
+  left: -1px;
+  top: 0px;
+
+  background: linear-gradient(180deg, #3ba7ff 0%, #9aeeff 100%);
+}
+
+.image {
+  position: absolute;
+  width: 928px;
+  height: 1068px;
+  left: -3px;
+  top: -451px;
+
+  background: url(image.png);
+  opacity: 0.96;
+}
+
+.image6 {
+  position: absolute;
+  width: 1083px;
+  height: 1330px;
+  left: 997px;
+  top: -373px;
+
+  background: url(image.png);
+  opacity: 0.94;
+}
+
+.image1 {
+  position: absolute;
+  width: 592px;
+  height: 468px;
+  left: -147px;
+  top: 400px;
+
+  background: url(image.png);
+  opacity: 1;
+}
+
+.Rectangle7 {
+  position: absolute;
+  width: 2056px;
+  height: 1155px;
+  left: -86px;
+  top: -120px;
+
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.Rectangle1 {
+  position: absolute;
+  width: 428px;
+  height: 5000px;
+  left: 731px;
+
+  background: linear-gradient(
+    180deg,
+    #f4f9ff 0%,
+    #aad4ff 18.1%,
+    #b0d7ff 30.6%,
+    #67b3ff 100%
+  );
+}
+
+.Rectangle3 {
+  position: absolute;
+  width: 391px;
+  height: 5000px;
+  left: 749px;
+  top: 0px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(132, 220, 255, 0.2) 100%
+  );
+}
+.Line1 {
+  position: absolute;
+  width: 1px;
+  height: 5000px;
+  left: 765px;
+  top: 0px;
+
+  border: 4px solid #ffffff;
+}
+
+.Line2 {
+  position: absolute;
+  width: 1px;
+  height: 5000px;
+  left: 1125px;
+  top: 0px;
+
+  border: 4px solid #ffffff;
+}
+
+.말칸1 {
+  position: absolute;
+  width: 705.96px;
+  height: 573px;
+  left: 283px;
+  top: 584px;
+}
+
+.Rectangle2 {
+  position: absolute;
+  width: 662.04px;
+  height: 431.33px;
+
+  background: #ffffff;
+  opacity: 0.94;
+  border-radius: 0px 76px;
+  transform: rotate(180deg);
+}
+
+.Rectangle4 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 447.96px;
+  height: 279.69px;
+  left: 579px;
+  top: 899px;
+
+  background: #945fda;
+  opacity: 0.8;
+  border: 6px solid #ffffff;
+
+  border-radius: 0px 76px;
+  transform: rotate(180deg);
+}
+
+.소제목 {
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 50px;
+}
+
+.text1 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 571px;
+  height: 282px;
+  left: 325px;
+  top: 617px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+
+  color: #000000;
+}
+
+.text2 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 384px;
+  height: 258px;
+  left: 599px;
+  top: 919px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 35px;
+  /* or 146% */
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 10.5px rgba(27, 121, 185, 0.25);
+}
+
+.중제목 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 370px;
+  height: 35px;
+  left: 283px;
+  top: 536px;
+
+  font-family: "SeoulHangang CBL";
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #1e7eb9;
+}
+
+.Rectangle2-1 {
+  position: absolute;
+  width: 569px;
+  height: 384px;
+  left: 1070px;
+  top: 1250px;
+
+  background: #ffffff;
+  opacity: 0.94;
+  border-radius: 0px 76px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.Rectangle4-1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 385px;
+  height: 249px;
+  left: 1003px;
+  top: 1560px;
+
+  background: #945fda;
+  opacity: 0.8;
+  border: 6px solid #ffffff;
+
+  border-radius: 0px 76px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.text3 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 502px;
+  height: 200px;
+  left: 1120px;
+  top: 1274px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #000000;
+}
+.imagej {
+  position: absolute;
+  width: 297px;
+  height: 208px;
+  left: 1052px;
+  top: 1580px;
+
+  background: url(image.png);
+  border-radius: 56px 0px 62px;
+}
+
+.r1 {
+  position: absolute;
+  width: 703px;
+  height: 340px;
+  left: 988px;
+  top: 2409px;
+
+  background: #ffffff;
+  opacity: 0.94;
+  border-radius: 0px 76px;
+  transform: rotate(180deg);
+}
+.r2 {
+  position: absolute;
+  width: 25px;
+  height: 514px;
+  left: 1116px;
+  top: 1853px;
+
+  background: #9bcfff;
+}
+
+.image3 {
+  position: absolute;
+  width: 532px;
+  height: 448px;
+  left: -90px;
+  top: 653px;
+
+  background: url(image.png);
+  opacity: 0.82;
+}
+
+.image4 {
+  position: absolute;
+  width: 591px;
+  height: 397px;
+  left: 29px;
+  top: 880px;
+
+  background: url(image.png);
+  opacity: 0.83;
+}
+
+.image5 {
+  position: absolute;
+  width: 520px;
+  height: 353px;
+  left: 1533px;
+  top: 748px;
+
+  background: url(image.png);
+  opacity: 0.83;
+}
+
+.image7 {
+  position: absolute;
+  width: 647px;
+  height: 343px;
+  left: 979px;
+  top: 818px;
+  opacity: 0.83;
+}
+
+.image8 {
+  position: absolute;
+  width: 647px;
+  height: 343px;
+  left: 1354px;
+  top: 527px;
+}
+
+.image9 {
+  position: absolute;
+  width: 625px;
+  height: 445px;
+  left: 1295px;
+  top: 614px;
+
+  background: url(image.png);
+  opacity: 0.8;
+}
+.r5 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 688px;
+  height: 515px;
+  left: 988px;
+  top: 1853px;
+
+  border: 4px solid #ffffff;
+  border-radius: 154px 0px 118px;
+}
+
+.image10 {
+  position: absolute;
+  width: 520px;
+  height: 388px;
+  left: 1080px;
+  top: 1917px;
+
+  border-radius: 71px 0px 90px;
+}
+.text4 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 303px;
+  height: 256px;
+  left: 1029px;
+  top: 2460px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.text5 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 303px;
+  height: 256px;
+  left: 1349px;
+  top: 2460px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.image11 {
+  position: absolute;
+  width: 731px;
+  height: 551px;
+  left: 1200px;
+  top: 1364px;
+  opacity: 0.8;
+  background: url(2.png);
+}
+.image12 {
+  position: absolute;
+  width: 608px;
+  height: 262px;
+  left: 21px;
+  top: 1757px;
+  opacity: 0.8;
+  background: url(3.png);
+}
+
+.image13 {
+  position: absolute;
+  width: 930px;
+  height: 596px;
+  left: 164px;
+  top: 1728px;
+  opacity: 0.8;
+  background: url(4.png);
+}
+
+.g3 {
+  position: absolute;
+  width: 1429px;
+  height: 387px;
+  left: 260px;
+  top: 111px;
+}
+.text6 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 1429px;
+  height: 328px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 208px;
+  line-height: 208px;
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 35.5px rgba(33, 110, 225, 0.25);
+}
+.text7 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 643px;
+  height: 59px;
+  left: 365px;
+  top: 339px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 35.5px rgba(37, 120, 246, 0.25);
+}
+
+.image14 {
+  position: relative;
+  width: 725;
+  height: 380;
+  top: 1350px;
+  left: 129.5;
+}
+
+.중제목2 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 370px;
+  height: 35px;
+  left: 1469px;
+  top: 1197px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #2f88f4;
+}
+.중제목3 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 370px;
+  height: 35px;
+  left: 1369px;
+  top: 1797px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #1da5ed;
+}
+
+.중제목4 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 470px;
+  height: 35px;
+  left: 283px;
+  top: 1296px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #2497df;
+}
+
+.image15 {
+  position: absolute;
+  width: 787px;
+  height: 922px;
+  top: 2100px;
+  left: 115px;
+}
+
+.중제목5 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 470px;
+  height: 35px;
+  left: 283px;
+  top: 2100px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #1e83e1;
+}
+
+.image16 {
+  position: absolute;
+  width: 800px;
+  height: 922px;
+  top: 2950px;
+  left: 900px;
+  border-radius: 0px 76px;
+}
+
+.r12 {
+  position: absolute;
+  width: 424px;
+  height: 491px;
+  left: 730px;
+  top: 2891px;
+
+  background: #945fda;
+  border: 6px solid #ffffff;
+  border-radius: 76px 0px 76px;
+  opacity: 0.8;
+}
+.text7 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 390px;
+  height: 480px;
+  left: 747px;
+  top: 2991px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 11.4px rgba(16, 50, 106, 0.25);
+}
+
+.중제목6 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 370px;
+  height: 35px;
+  left: 1469px;
+  top: 2877px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #3488e8;
+}
+
+.image17 {
+  position: absolute;
+  width: 675px;
+  height: 176px;
+  left: 44px;
+  top: 3014px;
+
+  background: url(image.png);
+  border-radius: 27px;
+}
+
+.image18 {
+  position: absolute;
+  width: 675px;
+  height: 476px;
+  left: 44px;
+  top: 3250px;
+
+  background: url(image.png);
+  border-radius: 27px;
+}
+
+.부제목 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 643px;
+  height: 59px;
+  left: 625px;
+  top: 439px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 10px rgba(62, 125, 203, 0.85);
+}
+
+.image19 {
+  position: absolute;
+  width: 731px;
+  height: 551px;
+  left: 400px;
+  top: 3464px;
+  opacity: 0.8;
+}
+
+.image20 {
+  position: absolute;
+  width: 702px;
+  height: 437px;
+  top: 3950px;
+  left: 800px;
+  border-radius: 0px 76px;
+}
+
+.image21 {
+  position: absolute;
+  width: 520px;
+  height: 353px;
+  left: 1533px;
+  top: 4448px;
+
+  background: url(image.png);
+  opacity: 0.83;
+}
+
+.image22 {
+  position: absolute;
+  width: 647px;
+  height: 343px;
+  left: 1354px;
+  top: 4227px;
+}
+
+.image23 {
+  position: absolute;
+  width: 625px;
+  height: 445px;
+  left: 1295px;
+  top: 4314px;
+
+  background: url(image.png);
+  opacity: 0.8;
+}
+
+.image24 {
+  position: absolute;
+  width: 647px;
+  height: 343px;
+  left: 900px;
+  top: 4518px;
+  opacity: 0.83;
+}
+
+.image25 {
+  position: absolute;
+  width: 670;
+  height: 370;
+  left: 44px;
+  top: 3950px;
+
+  background: url(image.png);
+  border-radius: 27px;
+}
+
+.중제목7 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 370px;
+  height: 35px;
+  left: 80px;
+  top: 2950px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #3488e8;
+}
+
+.r1-1 {
+  position: absolute;
+  width: 703px;
+  height: 640px;
+  left: 44px;
+  top: 4350px;
+  box-shadow: 0px 4px 40px rgba(20, 118, 168, 0.25);
+  background: #ffffff;
+  opacity: 0.94;
+  border-radius: 0px 76px;
+  transform: rotate(180deg);
+}
+
+.text8 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 653px;
+  height: 640px;
+  left: 69px;
+  top: 4370px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+
+  color: #000000;
+}
+
+.중제목8 {
+  font-family: "Gowun Dodum", sans-serif;
+  position: absolute;
+  width: 470px;
+  height: 35px;
+  left: 80px;
+  top: 3890px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 40px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 25px #3488e8;
+}
